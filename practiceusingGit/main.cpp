@@ -12,5 +12,6 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";
     cout<<"my name is AHmed";
     cout<<"I am a student at SJSU";
+    cout << "Ahmed the SNIPER" << endl;
     return 0;
 }
